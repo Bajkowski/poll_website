@@ -1,5 +1,7 @@
 # poll_website
 
-Following a tutorial for part 1:
+### Part 1 -- Summary
 
-https://docs.djangoproject.com/en/4.1/intro/tutorial01/
+[Tutorial Link - part 1](https://docs.djangoproject.com/en/4.1/intro/tutorial01/)
+
+Part one is really just setting up the project structure and getting familiar with the basic request and response flow.
