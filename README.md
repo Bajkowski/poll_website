@@ -11,3 +11,9 @@ Part one is really just setting up the project structure and getting familiar wi
 [Tutorial Link - part 2](https://docs.djangoproject.com/en/4.1/intro/tutorial02/)
 
 Part two is about working with the models API and have getting familiar with the admin site.
+
+### Part 3 -- Summary
+
+[Tutorial Link - part 2](https://docs.djangoproject.com/en/4.1/intro/tutorial03/)
+
+Part three is about writing views.
